@@ -2,7 +2,6 @@
 
 from bs4 import BeautifulSoup
 import yaml, requests
-import sys
 
 MATCH_RESULT_URL = "http://www.football-lab.jp/{}/match/?year={}"
 MATCH_RESULT_YEAR = '2015'
